@@ -99,8 +99,8 @@ project/
 ### Clonando o projeto
 
 ```bash
-git clone <url-do-repositorio>
-cd <nome-do-projeto>
+git clone <https://github.com/alves-medeiros/Consulta-de-concursos-da-Mega-Sena.git>
+cd <Consulta-de-concursos-da-Mega-Sena>
 ```
 
 ### Instalando dependências
@@ -140,7 +140,7 @@ npm start
 A aplicação estará disponível em:
 
 ```text
-
+https://consulta-de-concursos-da-mega-sena.onrender.com/
 ```
 
 ## 📡 Endpoints
